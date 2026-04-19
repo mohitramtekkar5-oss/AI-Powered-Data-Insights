@@ -64,7 +64,7 @@ Visit [aistudio.google.com](https://aistudio.google.com) and generate
 a free API key.
 
 ### Step 2 — Open in Google Colab
-[![Open In Colab](API_Powered_Data_Insights.ipynb)](https://colab.research.google.com/)
+[![Open In Colab][API_Powered_Data_Insights.ipynb](https://github.com/mohitramtekkar5-oss/AI-Powered-Data-Insights/blob/3d47e729e7da6f310d2bce5d766699fc2dfb35aa/API_Powered_Data_Insights.ipynb)](https://colab.research.google.com/)
 
 Upload this notebook and your dataset CSV to Colab.
 
