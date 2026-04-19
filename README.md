@@ -50,7 +50,8 @@ AI Business Report → Saved as .txt file
 ---
 
 ## 📈 Sample Output
-![Sample Output](sample_output_screenshot.png)
+![Sample Output](<img width="1219" height="406" alt="sample output screenshot" src="https://github.com/user-attachments/assets/33282311-6532-4f3d-ae3f-9adce9004015" />)
+
 
 > Full report available here: [walmart_insight_report.txt](walmart_insight_report.txt)
 
